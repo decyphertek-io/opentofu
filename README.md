@@ -51,6 +51,7 @@ gcloud compute zones list
 References:
 --------------
 * https://opentofu.org/docs/intro/install/deb/
+* https://cloud.google.com/sdk/docs/install#deb
 * https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/compute_instance
 * https://cloud.google.com/docs/terraform/samples
 * https://github.com/terraform-google-modules/terraform-docs-samples
